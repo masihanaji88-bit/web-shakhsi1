@@ -1,0 +1,417 @@
+# Translation of blockskit-coaching-center in Blockskit Coaching Center
+# This file is distributed under the same license as the Blockskit Coaching Center package.
+msgid ""
+msgstr ""
+"Project-Id-Version: blockskit-coaching-center\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-coaching-center\n"
+"POT-Creation-Date: 2026-05-25T11:15:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: blockskit-manager\n"
+"X-Domain: blockskit-coaching-center\n"
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:19
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:37
+msgid "Products"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:53
+msgid "Company"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:73
+msgid "Resources"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:89
+msgid "Support"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:108
+msgid "Copyright © 2026 ·"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:114
+msgid "· All rights reserved"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\header.php:34
+msgid "Get Quotes"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:28
+msgid "INTRODUCTION TO US"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:34
+msgid "Best coaching experience for long lasting alignment.."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:41
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliqua. Egestas fugit feugiat maxime. Arcu curae corrupti curae rerum consectetu."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:47
+msgid "01. CLIENTS CONSULTED"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:51
+msgid "880+"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:57
+msgid "02. SUCCESS PERCENT"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:61
+msgid "95%"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:69
+msgid "More About Us"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:82
+msgid "CALL US 24*7 ANYTIME :"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:86
+msgid "+47 256 789 225"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:13
+msgid "Unlock your full potentials and achieve success"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:17
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus Scelerisque, consectetuer solutpat aliquam."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:22
+msgid "Get Started Now"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:26
+msgid "Learn More"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-latest-posts.php:20
+msgid "LATEST BLOG"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-latest-posts.php:26
+msgid "Checkout latest insights, trends and updates"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-latest-posts.php:33
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliquam mi qui voluptatibus provident nec."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:30
+#: patterns\home-reviews.php:70
+#: patterns\home-reviews.php:110
+msgid "\"Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia aliqua.\""
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:36
+msgid "Mikel Harris"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:40
+#: patterns\home-reviews.php:80
+#: patterns\home-reviews.php:120
+msgid "CLIENT, AGENT"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:76
+msgid "Alison Brown"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:116
+msgid "George Smith"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:142
+msgid "REVIEWS &amp; FAQs"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:148
+msgid "Our faqs &amp; reviews from the genuine clients.."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:152
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliqua."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:160
+msgid "How do the coaching sessions work in center ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:165
+#: patterns\home-reviews.php:177
+#: patterns\home-reviews.php:189
+#: patterns\home-reviews.php:201
+msgid "Ratione maecenas libero voluptas laborum proident! Voluptate tempus senectus phasellus aliqua tristique mollis, tincidunt."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:172
+msgid "How long does it takes to see a results ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:184
+msgid "Are your coaching services affordable ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-reviews.php:196
+msgid "What makes your coaching different from others ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:20
+msgid "FEATURE SERVICES"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:26
+msgid "Our comprehensive coaching services"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:33
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliquam mi qui voluptatibus provident nec doloribus iusto aliq."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:40
+msgid "View All Services"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:44
+msgid "Get Free Quotes"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:54
+msgid "CONSULTANCY / MOTIVATION"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:58
+msgid "Business coaching"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:75
+#: patterns\home-services.php:103
+#: patterns\home-services.php:131
+msgid "Pulvinar eius aenean, aut, sociosqu duis odit lobortis porta rem debitis quibusdam. Inventore quae magni."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:82
+msgid "SELF-DEPENDENT / SELF-ESTEEM"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:86
+msgid "Personal coaching"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:110
+msgid "LEADERSHIP / CORPORATE"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:114
+msgid "Leadership coaching"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-404.php:23
+msgid "This page could not be found. Maybe try a search?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:26
+#: patterns\template-cart.php:89
+#: patterns\template-cart.php:152
+msgid "You may be interested in…"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:208
+msgid "Your cart is currently empty!"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:212
+msgid "Browse store"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:220
+msgid "New in store"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:40
+msgid "Order details"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:48
+msgid "Downloads"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:58
+msgid "Shipping address"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:68
+msgid "Billing address"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-product-search-results.php:48
+msgid "No products were found matching your selection."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-search.php:50
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-single-product.php:15
+msgid "Single Product"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-single-product.php:57
+msgid "Related products"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] ""
+msgstr[1] ""
+

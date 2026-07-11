@@ -1,0 +1,412 @@
+# Translation of blockskit-coaching-center in Blockskit Coaching Center
+# This file is distributed under the same license as the Blockskit Coaching Center package.
+msgid ""
+msgstr ""
+"Project-Id-Version: blockskit-coaching-center\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-coaching-center\n"
+"POT-Creation-Date: 2026-05-25T11:15:57+00:00\n"
+"PO-Revision-Date: 2026-07-07 10:03+0330\n"
+"Last-Translator: \n"
+"Language-Team: Persian <fa_IR>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: blockskit-coaching-center\n"
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "الگوهای پوسته"
+msgstr[1] "الگوهای پوسته"
+
+#: patterns\footer.php:19
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ."
+
+#: patterns\footer.php:37
+msgid "Products"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "محصولات"
+msgstr[1] "محصولات"
+
+#: patterns\footer.php:53
+msgid "Company"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "شرکت"
+msgstr[1] "شرکت"
+
+#: patterns\footer.php:73
+msgid "Resources"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "منابع"
+msgstr[1] "منابع"
+
+#: patterns\footer.php:89
+msgid "Support"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "پشتیبانی"
+msgstr[1] "پشتیبانی"
+
+#: patterns\footer.php:108
+msgid "Copyright © 2026 ·"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "حق چاپ © ۲۰۲۶ ·"
+msgstr[1] "حق چاپ © ۲۰۲۶ ·"
+
+#: patterns\footer.php:114
+msgid "· All rights reserved"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "· تمامی حقوق محفوظ است"
+msgstr[1] "· تمامی حقوق محفوظ است"
+
+#: patterns\header.php:34
+msgid "Get Quotes"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "دریافت قیمت"
+msgstr[1] "دریافت قیمت"
+
+#: patterns\home-about.php:28
+msgid "INTRODUCTION TO US"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "معرفی ما"
+msgstr[1] "معرفی ما"
+
+#: patterns\home-about.php:34
+msgid "Best coaching experience for long lasting alignment.."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "بهترین تجربه کوچینگ برای هماهنگی و پایداری همیشگی..."
+msgstr[1] "بهترین تجربه کوچینگ برای هماهنگی و پایداری همیشگی..."
+
+#: patterns\home-about.php:41
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliqua. Egestas fugit feugiat maxime. Arcu curae corrupti curae rerum consectetu."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است."
+
+#: patterns\home-about.php:47
+msgid "01. CLIENTS CONSULTED"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "۰۱. مراجعین مشاوره شده"
+msgstr[1] "۰۱. مراجعین مشاوره شده"
+
+#: patterns\home-about.php:51
+msgid "880+"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "۸۸۰+"
+msgstr[1] "۸۸۰+"
+
+#: patterns\home-about.php:57
+msgid "02. SUCCESS PERCENT"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "۰۲. درصد موفقیت"
+msgstr[1] "۰۲. درصد موفقیت"
+
+#: patterns\home-about.php:61
+msgid "95%"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "۹۵٪"
+msgstr[1] "۹۵٪"
+
+#: patterns\home-about.php:69
+msgid "More About Us"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "اطلاعات بیشتر درباره ما"
+msgstr[1] "اطلاعات بیشتر درباره ما"
+
+#: patterns\home-about.php:82
+msgid "CALL US 24*7 ANYTIME :"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "تماس با ما ۲۴/۷ در هر زمان :"
+msgstr[1] "تماس با ما ۲۴/۷ در هر زمان :"
+
+#: patterns\home-about.php:86
+msgid "+47 256 789 225"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "+47 256 789 225"
+msgstr[1] "+47 256 789 225"
+
+#: patterns\home-hero-banner.php:13
+msgid "Unlock your full potentials and achieve success"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "پتانسیل‌های کامل خود را آزاد کنید و به موفقیت برسید"
+msgstr[1] "پتانسیل‌های کامل خود را آزاد کنید و به موفقیت برسید"
+
+#: patterns\home-hero-banner.php:17
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus Scelerisque, consectetuer solutpat aliquam."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
+
+#: patterns\home-hero-banner.php:22
+msgid "Get Started Now"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "همین حالا شروع کنید"
+msgstr[1] "همین حالا شروع کنید"
+
+#: patterns\home-hero-banner.php:26
+msgid "Learn More"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "اطلاعات بیشتر"
+msgstr[1] "اطلاعات بیشتر"
+
+#: patterns\home-latest-posts.php:20
+msgid "LATEST BLOG"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "آخرین مطالب وبلاگ"
+msgstr[1] "آخرین مطالب وبلاگ"
+
+#: patterns\home-latest-posts.php:26
+msgid "Checkout latest insights, trends and updates"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "آخرین دیدگاه‌ها، روندها و به‌روزرسانی‌ها را بررسی کنید"
+msgstr[1] "آخرین دیدگاه‌ها، روندها و به‌روزرسانی‌ها را بررسی کنید"
+
+#: patterns\home-latest-posts.php:33
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliquam mi qui voluptatibus provident nec."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است تا شرایط فعلی تکنولوژی مورد نیاز."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است تا شرایط فعلی تکنولوژی مورد نیاز."
+
+#: patterns\home-reviews.php:30 patterns\home-reviews.php:70
+#: patterns\home-reviews.php:110
+msgid "\"Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia aliqua.\""
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "\"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.\""
+msgstr[1] "\"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.\""
+
+#: patterns\home-reviews.php:36
+msgid "Mikel Harris"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "مایکل هریس"
+msgstr[1] "مایکل هریس"
+
+#: patterns\home-reviews.php:40 patterns\home-reviews.php:80
+#: patterns\home-reviews.php:120
+msgid "CLIENT, AGENT"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "مشتری، نماینده"
+msgstr[1] "مشتری، نماینده"
+
+#: patterns\home-reviews.php:76
+msgid "Alison Brown"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "آلیسون براون"
+msgstr[1] "آلیسون براون"
+
+#: patterns\home-reviews.php:116
+msgid "George Smith"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "جورج اسمیت"
+msgstr[1] "جورج اسمیت"
+
+#: patterns\home-reviews.php:142
+msgid "REVIEWS &amp; FAQs"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "نظرات &amp; سوالات متداول"
+msgstr[1] "نظرات &amp; سوالات متداول"
+
+#: patterns\home-reviews.php:148
+msgid "Our faqs &amp; reviews from the genuine clients.."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "سوالات متداول &amp; نظرات مشتریان واقعی ما..."
+msgstr[1] "سوالات متداول &amp; نظرات مشتریان واقعی ما..."
+
+#: patterns\home-reviews.php:152
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliqua."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
+
+#: patterns\home-reviews.php:160
+msgid "How do the coaching sessions work in center ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "جلسات کوچینگ در مرکز چگونه برگزار می‌شوند؟"
+msgstr[1] "جلسات کوچینگ در مرکز چگونه برگزار می‌شوند؟"
+
+#: patterns\home-reviews.php:165 patterns\home-reviews.php:177
+#: patterns\home-reviews.php:189 patterns\home-reviews.php:201
+msgid "Ratione maecenas libero voluptas laborum proident! Voluptate tempus senectus phasellus aliqua tristique mollis, tincidunt."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
+
+#: patterns\home-reviews.php:172
+msgid "How long does it takes to see a results ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "چقدر زمان می‌برد تا نتایج مشاهده شوند؟"
+msgstr[1] "چقدر زمان می‌برد تا نتایج مشاهده شوند؟"
+
+#: patterns\home-reviews.php:184
+msgid "Are your coaching services affordable ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "آیا خدمات کوچینگ شما مقرون‌به‌صرفه هستند؟"
+msgstr[1] "آیا خدمات کوچینگ شما مقرون‌به‌صرفه هستند؟"
+
+#: patterns\home-reviews.php:196
+msgid "What makes your coaching different from others ?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "چه چیزی کوچینگ شما را از دیگران متمایز می‌کند؟"
+msgstr[1] "چه چیزی کوچینگ شما را از دیگران متمایز می‌کند؟"
+
+#: patterns\home-services.php:20
+msgid "FEATURE SERVICES"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "خدمات ویژه"
+msgstr[1] "خدمات ویژه"
+
+#: patterns\home-services.php:26
+msgid "Our comprehensive coaching services"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "خدمات جامع کوچینگ ما"
+msgstr[1] "خدمات جامع کوچینگ ما"
+
+#: patterns\home-services.php:33
+msgid "Vulputate semper mollit sociosqu modi fringilla alias. Totam dis aute tempor rhoncus, officia! Scelerisque, consectetuer. Volutpat aliquam mi qui voluptatibus provident nec doloribus iusto aliq."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است تا شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است تا شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع."
+
+#: patterns\home-services.php:40
+msgid "View All Services"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "مشاهده همه خدمات"
+msgstr[1] "مشاهده همه خدمات"
+
+#: patterns\home-services.php:44
+msgid "Get Free Quotes"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "دریافت قیمت رایگان"
+msgstr[1] "دریافت قیمت رایگان"
+
+#: patterns\home-services.php:54
+msgid "CONSULTANCY / MOTIVATION"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "مشاوره / انگیزش"
+msgstr[1] "مشاوره / انگیزش"
+
+#: patterns\home-services.php:58
+msgid "Business coaching"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "کوچینگ کسب‌وکار"
+msgstr[1] "کوچینگ کسب‌وکار"
+
+#: patterns\home-services.php:75 patterns\home-services.php:103
+#: patterns\home-services.php:131
+msgid "Pulvinar eius aenean, aut, sociosqu duis odit lobortis porta rem debitis quibusdam. Inventore quae magni."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ."
+msgstr[1] "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ."
+
+#: patterns\home-services.php:82
+msgid "SELF-DEPENDENT / SELF-ESTEEM"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "خوداتکایی / عزت نفس"
+msgstr[1] "خوداتکایی / عزت نفس"
+
+#: patterns\home-services.php:86
+msgid "Personal coaching"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "کوچینگ فردی"
+msgstr[1] "کوچینگ فردی"
+
+#: patterns\home-services.php:110
+msgid "LEADERSHIP / CORPORATE"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "رهبری / شرکتی"
+msgstr[1] "رهبری / شرکتی"
+
+#: patterns\home-services.php:114
+msgid "Leadership coaching"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "کوچینگ رهبری"
+msgstr[1] "کوچینگ رهبری"
+
+#: patterns\template-404.php:23
+msgid "This page could not be found. Maybe try a search?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "این صفحه پیدا نشد. شاید بخواهید جستجو کنید؟"
+msgstr[1] "این صفحه پیدا نشد. شاید بخواهید جستجو کنید؟"
+
+#: patterns\template-cart.php:26 patterns\template-cart.php:89
+#: patterns\template-cart.php:152
+msgid "You may be interested in…"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "شاید به این موارد نیز علاقه‌مند باشید…"
+msgstr[1] "شاید به این موارد نیز علاقه‌مند باشید…"
+
+#: patterns\template-cart.php:208
+msgid "Your cart is currently empty!"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "سبد خرید شما در حال حاضر خالی است!"
+msgstr[1] "سبد خرید شما در حال حاضر خالی است!"
+
+#: patterns\template-cart.php:212
+msgid "Browse store"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "مرور فروشگاه"
+msgstr[1] "مرور فروشگاه"
+
+#: patterns\template-cart.php:220
+msgid "New in store"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "جدید در فروشگاه"
+msgstr[1] "جدید در فروشگاه"
+
+#: patterns\template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "تایید سفارش"
+msgstr[1] "تایید سفارش"
+
+#: patterns\template-order-confirmation.php:40
+msgid "Order details"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "جزئیات سفارش"
+msgstr[1] "جزئیات سفارش"
+
+#: patterns\template-order-confirmation.php:48
+msgid "Downloads"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "دانلودها"
+msgstr[1] "دانلودها"
+
+#: patterns\template-order-confirmation.php:58
+msgid "Shipping address"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "آدرس حمل و نقل"
+msgstr[1] "آدرس حمل و نقل"
+
+#: patterns\template-order-confirmation.php:68
+msgid "Billing address"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "آدرس صورت‌حساب"
+msgstr[1] "آدرس صورت‌حساب"
+
+#: patterns\template-product-search-results.php:48
+msgid "No products were found matching your selection."
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "هیچ محصولی مطابق با انتخاب شما یافت نشد."
+msgstr[1] "هیچ محصولی مطابق با انتخاب شما یافت نشد."
+
+#: patterns\template-search.php:50
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "متاسفیم، هیچ موردی با عبارت جستجوی شما مطابقت نداشت. جستجوی دیگری را امتحان می‌کنید؟"
+msgstr[1] "متاسفیم، هیچ موردی با عبارت جستجوی شما مطابقت نداشت. جستجوی دیگری را امتحان می‌کنید؟"
+
+#: patterns\template-single-product.php:15
+msgid "Single Product"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "محصول تکی"
+msgstr[1] "محصول تکی"
+
+#: patterns\template-single-product.php:57
+msgid "Related products"
+msgid_plural "blockskit-coaching-center"
+msgstr[0] "محصولات مرتبط"
+msgstr[1] "محصولات مرتبط"

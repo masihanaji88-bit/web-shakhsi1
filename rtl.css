@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Estedad';
+  src: url('assets/fonts/estedad/Estedad-Regular.woff2') format('woff2'),
+  url('assets/fonts/estedad/Estedad-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+*,body{
+    font-family: 'Estedad', sans-serif;
+    font-weight: 400; 
+}
+h1{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+h2{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+h3{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+h4{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+h5{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+h6{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+div{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+p{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+input{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+textarea{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+th{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+tr{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+button{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
+a{
+  font-family: 'Estedad', sans-serif;
+  font-weight: 400;
+}
